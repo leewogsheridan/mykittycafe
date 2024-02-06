@@ -1,0 +1,7 @@
+{
+  "name": "MyKittyCafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
